@@ -1,0 +1,1 @@
+This is a GitHub repo for all coursework related submissions during COMP60711 module at The University of Manchester 2023/2024.
